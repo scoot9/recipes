@@ -7,6 +7,7 @@ Meatloaf
 * Ketchup
 * More Salt
 * Some Pepper
+* bay leaf
 
 
 -Instructions
