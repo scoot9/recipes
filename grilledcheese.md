@@ -4,6 +4,6 @@
 * Bread
 * Butter
 * Cheese
-* Tomato Soup
+* Tomato Soup (Optional)
 
 ## Steps
