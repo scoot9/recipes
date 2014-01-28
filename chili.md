@@ -12,14 +12,15 @@
 * tomatoes
 * tomato sauce
 * tomato paste
-* seasonings
-** chili powder
-** sea salt
-** black pepper
-** oregano
-** paprika
-** garlic salt
-** bay leaves (remove before serving)
+
+# seasonings 
+* chili powder
+* sea salt
+* black pepper
+* oregano
+* paprika
+* garlic salt
+* bay leaves (remove before serving)
 
 ## Steps
 
