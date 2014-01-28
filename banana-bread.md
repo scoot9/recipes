@@ -3,5 +3,6 @@
 ## Ingredients
 * bread
 * banana
+* beer (to drink while you are making banana bread)
 
 ## Steps
